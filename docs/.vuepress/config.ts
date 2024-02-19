@@ -327,10 +327,10 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
     [
       'vuepress-plugin-comment', // 评论
       {
-        choosen: 'gitalk',
+        choosen: '',
         options: {
-          clientID: '31620fb87ba0547c3730',
-          clientSecret: 'ab40b6965667ec51414d0e296ac0118e45c2046a',
+          clientID: '',
+          clientSecret: '',
           repo: 'myblog', // GitHub 仓库
           owner: 'sh1luo', // GitHub仓库所有者
           admin: ['sh1luo'], // 对仓库有写权限的人
