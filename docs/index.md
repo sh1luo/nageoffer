@@ -9,80 +9,49 @@ bannerBg: none
 # actionLink: /web/
 # bannerBg: auto # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
 
-# features: # 可选的
-#   - title: 前端
-#     details: JavaScript、ES6、Vue框架等前端技术
-#     link: /web/ # 可选
-#     imgUrl: /img/web.png # 可选
-#   - title: 页面
-#     details: html(5)/css(3)，前端页面相关技术
-#     link: /ui/
-#     imgUrl: /img/ui.png
-#   - title: 技术
-#     details: 技术文档、教程、技巧、总结等文章
-#     link: /technology/
-#     imgUrl: /img/other.png
-
 # 文章列表显示方式: detailed 默认，显示详细版文章列表（包括作者、分类、标签、摘要、分页等）| simple => 显示简约版文章列表（仅标题和日期）| none 不显示文章列表
 postList: none
 # simplePostListLength: 10 # 简约版文章列表显示的文章数量，默认10。（仅在postList设置为simple时生效）
 hideRightBar: true # 是否隐藏右侧边栏
 ---
+### 💯 实战项目
 
+- 🔥[《12306 铁路购票平台》](https://nageoffer.com/12306)：12306 铁路购票系统，帮助学生主打就业的项目。
+- 🔥[《Sass短链接平台》](https://nageoffer.com/12306)：12306 铁路购票系统，帮助学生主打就业的项目。
+- [《CongoMall刚果商城》](https://nageoffer.com/12306)：12306 铁路购票系统，帮助学生主打就业的项目。
+- [《Seraph幂等组件库》](https://nageoffer.com/12306)：12306 铁路购票系统，帮助学生主打就业的项目。
+- [《OneFrame基础组件库》](https://nageoffer.com/12306)：企业级基础架构组件库，包含规约、缓存、日志等组件包，项目快速开发技术脚手架。
 
-<!-- 小熊猫 -->
-<!-- <img src="/img/panda-waving.png" class="panda no-zoom" style="width: 130px;height: 115px;opacity: 0.8;margin-bottom: -4px;padding-bottom:0;position: fixed;bottom: 0;left: 0.5rem;z-index: 1;"> -->
+---
 
-<!--
-## 关于
+### 📖 大话面试
 
-### 📚Blog
-这是一个兼具博客文章、知识管理、文档查找的个人网站，主要内容是Web前端技术。如果你喜欢这个博客&主题欢迎到[GitHub](https://github.com/xugaoyi/vuepress-theme-vdoing)点个Star、获取源码，或者交换[友链](/friends/) ( •̀ ω •́ )✧
+屏幕前的你是否遇到过网上面经过于杂乱，不知道如何筛选？八股文内容太多太杂，无法总结有效回答 Battle 面试官？
 
-### 🎨Theme
-本站主题是根据[VuePress](https://vuepress.vuejs.org/zh/)的默认主题修改而成。取名`Vdoing`(维度)，旨在轻松打造一个`结构化`与`碎片化`并存的个人在线知识库&博客，让你的知识海洋像一本本书一样清晰易读。配合多维索引，让每一个知识点都可以快速定位！ 更多[详情](https://github.com/xugaoyi/vuepress-theme-vdoing)。
+大话面试小程序提供八股回答、实战项目以及面试真题，助力你在面试中脱颖而出。面对任何技术面试官都信心十足！
 
-<a href="https://github.com/xugaoyi/vuepress-theme-vdoing" target="_blank"><img src='https://img.shields.io/github/stars/xugaoyi/vuepress-theme-vdoing' alt='GitHub stars' class="no-zoom"></a>
-<a href="https://github.com/xugaoyi/vuepress-theme-vdoing" target="_blank"><img src='https://img.shields.io/github/forks/xugaoyi/vuepress-theme-vdoing' alt='GitHub forks' class="no-zoom"></a>
+- [👉《Redis》](https://nageoffer.com/12306)：12306 铁路购票系统，帮助学生主打就业的项目。
+- [👉《缓存》](https://nageoffer.com/12306)：12306 铁路购票系统，帮助学生主打就业的项目。
+- [👉《分库分表》](https://nageoffer.com/12306)：12306 铁路购票系统，帮助学生主打就业的项目。
+- [👉《Spring》](https://nageoffer.com/12306)：12306 铁路购票系统，帮助学生主打就业的项目。
 
-</br>
+---
 
+### 💭 关于作者
 
-## 特色功能
-博客部分特色功能介绍
+程序员马丁，业务架构师，阿里P7。一个不是在造轮子，就是在造轮子路上的程序员，追求优雅编码。从一个增删改查都写不明白的码农，到现在大家眼里的“技术专家”，这些年我做了这些事情？
 
-#### 一站式技术搜索
+2019 年开始尝试写博客，收获 **CSDN 博客专家，掘金优秀创作者，掘金年度人气作者，阿里云专家博主。**
 
-   博客内容中包含部分技术教程，可以利用搜索框快速搜索到相关文档，即使博客中没有的，你还可以选择最下方的 `在XXX中搜索“xxx”` 快速到达你想要找的内容。
+业余时间自主推出过几个开源项目，获得了用户很好的反馈。通过开源项目认识了许多志同道合的伙伴。
 
-#### 深色模式与阅读模式
-关爱程序员，保护视力，点击右下角的主题模式按钮试试吧~
+- 2021 年开源线程池框架 [opengoofy/hippo4j](https://github.com/opengoofy/hippo4j) (opens new window)至今，收获 `6.5kStar`，近 50 家企业生产正式使用。
+- 2022 年贡献 Apache 顶级数据库中间件项目 apache/ShardingSphere (opens new window)。经持续贡献，被社区提名 ShardingSphere Committer。
+- 2023 年创建 nageoffer（拿个offer） (opens new window)开源组织，共发布三个现象级开源框架：12306、SaaS 短链接以及刚果商城，帮助近千名同学校招和社招拿下心仪面试。
 
-#### Demo演示模块
-   为了更直观的展示一些代码的效果，博客添加了demo模块插件，可查看demo、源码，以及跳转到codepen在线编辑。**示例**：
+---
 
-::: demo [vanilla]
-```html
-<html>
-  <div id="vanilla-box"></div>
-</html>
-<script>
-  var box = document.getElementById('vanilla-box')
-  box.innerHTML = 'Hello World! Welcome to EB'
-</script>
-<style>
-#vanilla-box {
-  color: #11a8cd;
-}
-</style>
-```
-:::
+📚 公众号
 
+最新更新会第一时间同步在公众号，推荐关注！另外，公众号上有很多干货不会同步在线阅读网站。
 
-## :email: 联系
-
-- **WeChat or QQ**: <a href="tencent://message/?uin=894072666&Site=&Menu=yesUrl" class='qq'>894072666</a>
-- **Email**: <a href="mailto:894072666@qq.com">894072666@qq.com</a>
-- **GitHub**: <https://github.com/xugaoyi>
-
-</br>  -->
